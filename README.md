@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Zeeshan Naseer👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/zee7153"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Node JS+Backend+Engineer;React+Developer;&center=true&width=500&height=50"></a>
+<a href="https://github.com/zee7153"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Django+Developer;Python+Backend+Engineer;React+Developer;MERN+STACK+Devloper&center=true&width=500&height=50"></a>
 	
 
 ### I'm a MERN Stack Developer
